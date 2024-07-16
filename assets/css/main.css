@@ -201,13 +201,14 @@ button {
 
 .scroll-to-top {
   position: fixed;
+  /* right: 105rem; */
   right: 3rem;
-  bottom: 3rem;
+  bottom: 14rem;
   overflow: hidden;
   z-index: 999;
-  width: 6.5rem;
-  height: 65px;
-  line-height: 6.5rem;
+  width: 5rem;
+  height: 5rem;
+  line-height: 5rem;
   border-radius: 3px;
   display: block;
   text-align: center;
